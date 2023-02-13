@@ -31,4 +31,6 @@ El trabajo realizado en este proyecto ha dado lugar a una herramienta que simula
 
 ### Próximamente...
 
-Este proyecto es simplemente el primer paso antes de llevar a cabo mi proyecto final, (de ahí la implicación e importancia del mismo) el cual está basado en estos mismos datos y los cuales implican una gran relevancia a la hora de llevar a cabo la idea final.
+Este proyecto es simplemente el primer paso antes de la presentación del proyecto final, (de ahí la implicación e importancia del mismo) el cual está basado en estos mismos datos y los cuales implican una gran relevancia a la hora de llevar a cabo dicho proyecto.
+
+                                                                                    
