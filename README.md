@@ -16,7 +16,7 @@ Para este proyecto de ETL (extracción, transformación y carga de datos) nos re
 Los principales objetivos a cumplir son: 
 
 - La extracción de datos mediante diferentes métodos a elegir entre los cuales se encuentran (CSV, API'S, RSS o Scraping)
-- La transformación de dichos datos en el caso de ser requerido ya que al extraer los datos de las diferentes webs necesitan ser procesados y sometidos a un proceso de enriquecimiento Y limpieza.
+- La transformación de dichos datos en el caso de ser requerido ya que al extraer los datos de las diferentes webs necesitan ser procesados y sometidos a un proceso de enriquecimiento y limpieza.
 - La carga y almacenamiento en SQL de esos datos resultantes ya obtenidos y filtrados.
 
 
