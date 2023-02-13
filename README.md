@@ -5,7 +5,7 @@
 
 ### Idea inicial del proyecto:
 
-Para este proyecto de ETL (extracción, transformación y carga de datos) nos requieren extraer datos de 3 fuentes de información distintas, como por ejemplo, tres urls diferentes y que en mi caso, serán tres páginas webs de venta de motocicletas. Una vez pensado el proyecto, decido centrarme en tres de las principales y más importantes marcas japonesas de motociclismo,  que son:
+Para este proyecto de ETL (extracción, transformación y carga de datos) nos requieren extraer datos de tres fuentes de información distintas, como por ejemplo, tres urls diferentes y que en mi caso, serán tres páginas webs de venta de motocicletas. Una vez pensado el proyecto, decido centrarme en tres de las principales y más importantes marcas japonesas de motociclismo,  que son:
 
 #### Honda (https://www.honda.es/motorcycles.html)
 #### Yamaha (https://www.yamaha-motor.eu/es/es/products/motocicletas/)
